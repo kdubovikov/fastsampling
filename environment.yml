@@ -1,0 +1,5 @@
+name: fsampling
+channels:
+- defaults
+prefix: /Users/kdubovikov/miniconda3/envs/fsampling
+
