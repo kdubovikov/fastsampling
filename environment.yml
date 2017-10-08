@@ -2,23 +2,6 @@ name: fsampling
 channels:
 - defaults
 dependencies:
-    #- ca-certificates=2017.08.26=ha1e5d58_0
-    # - certifi=2017.7.27.1=py35h0fdde5e_0
-- libcxx=4.0.1=h579ed51_0
-- libcxxabi=4.0.1=hebd6815_0
-- libedit=3.1=hb4e282d_0
-- libffi=3.2.1=hd939716_3
-- ncurses=6.0=ha932d30_1
-- openssl=1.0.2l=h57f3a61_2
-- pip=9.0.1=py35he52dd69_3
-- python=3.5.4=hb8880cc_19
-- readline=7.0=h81b24a6_3
-- setuptools=36.5.0=py35h52cde6a_0
-- sqlite=3.20.1=h900c3b0_1
-- tk=8.6.7=hcdce994_1
-- wheel=0.29.0=py35ha7aa5c4_1
-- xz=5.2.3=ha24016e_1
-- zlib=1.2.11=h60db283_1
 - pip:
   - cycler==0.10.0
   - cython==0.27.1
