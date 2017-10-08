@@ -3,7 +3,7 @@ channels:
 - defaults
 dependencies:
     #- ca-certificates=2017.08.26=ha1e5d58_0
-- certifi=2017.7.27.1=py35h0fdde5e_0
+    # - certifi=2017.7.27.1=py35h0fdde5e_0
 - libcxx=4.0.1=h579ed51_0
 - libcxxabi=4.0.1=hebd6815_0
 - libedit=3.1=hb4e282d_0
